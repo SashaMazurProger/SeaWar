@@ -1,0 +1,8 @@
+﻿  Team.cpp
+  Player.cpp
+  Main.cpp
+f:\seawar\seawar\main.cpp(278): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AllowIndexes.cpp
+  Generating Code...
+  SeaWar.vcxproj -> F:\SeaWar\Debug\SeaWar.exe
+  SeaWar.vcxproj -> F:\SeaWar\Debug\SeaWar.pdb (Partial PDB)
